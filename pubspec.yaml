@@ -1,0 +1,35 @@
+name: taj_restaurant_admin
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconify_flutter: ^0.0.5
+  lottie: ^2.7.0
+  flutter_screenutil: ^5.9.0
+  http: ^1.1.0
+  get: ^4.6.6
+  get_storage: ^2.1.1
+  carousel_slider: ^4.2.1
+  easy_sidemenu: ^0.5.0
+  data_table_2: ^2.5.10
+  collapsible_sidebar: ^2.0.7
+  flutter_easyloading: ^3.0.5
+  sliding_switch: ^1.1.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
